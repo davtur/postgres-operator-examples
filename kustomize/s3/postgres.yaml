@@ -23,6 +23,6 @@ spec:
       repos:
       - name: repo1
         s3:
-          bucket: "<YOUR_AWS_S3_BUCKET_NAME>"
-          endpoint: "<YOUR_AWS_S3_ENDPOINT>"
-          region: "<YOUR_AWS_S3_REGION>"
+          bucket: "crunchy-postgres-db2-eaecf4e9-6f64-46fa-93dd-51832b39b1de"
+          endpoint: "rook-ceph-rgw-ocs-storagecluster-cephobjectstore.openshift-storage.svc:443"
+          region: "not-required"
